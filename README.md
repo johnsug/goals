@@ -42,3 +42,8 @@ https://www.reddit.com/r/LifeProTips/comments/3q9qfz/lpt_work_harder_on_yourself
 * D3
 * HTML5
 * CSS
+
+http://www.learnpython.org/
+http://learnpythonthehardway.org/book/
+https://external.codecademy.com/courses/introduction-to-python-6WeG3/0/2?curriculum_id=4f89dab3d788890003000096
+http://www.w3schools.com/
