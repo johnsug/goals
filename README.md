@@ -11,7 +11,7 @@ https://www.reddit.com/r/LifeProTips/comments/3q9qfz/lpt_work_harder_on_yourself
 ### Physical
 * complete 30-day fix and P90x3 (fall)
 * 1000 miles
-* heartland 39.3 (Spring)
+* heartland 39.3 (spring)
 * marathon (qualify for Boston, run before September)
 * 100+ pushups/day
 * DRINK ONLY WATER
@@ -19,6 +19,12 @@ https://www.reddit.com/r/LifeProTips/comments/3q9qfz/lpt_work_harder_on_yourself
 ### Mental
 * study 2 hours/day, M-TH (exams 5/6)
 * finish Coursera certificate
+* set up personal RStudio/Shiny server
+* finish portfolio
+  * EQ
+  * Changepoint
+  * Flights
+  * (one more?)
 
 ### Spiritual
 * read NT and DC
@@ -28,7 +34,7 @@ https://www.reddit.com/r/LifeProTips/comments/3q9qfz/lpt_work_harder_on_yourself
 
 ### Financial
 * pack and bring lunch 4x week
-* 600/month student loans?
+* 7200 in student loans
 
 ### Family
 * family day, once/month
