@@ -1,4 +1,4 @@
-# Goals for Personal Development
+# Objective
 
 "Work harder on yorself than you do on your job." ([J. Rohn](https://www.youtube.com/watch?v=JfA-qNWLBHo)). If you develop yourself, your job can't help but benefit.
 https://www.reddit.com/r/LifeProTips/comments/3q9qfz/lpt_work_harder_on_yourself_than_you_do_on_your
@@ -7,6 +7,10 @@ https://www.reddit.com/r/LifeProTips/comments/3q9qfz/lpt_work_harder_on_yourself
 1. Self
 2. Family (if I don't take care of myself, I'll have less to offer my family)
 3. Job
+
+------
+
+# 2016 Goals
 
 ### Physical
 * complete 30-day fix and P90x3 (fall)
@@ -25,6 +29,7 @@ https://www.reddit.com/r/LifeProTips/comments/3q9qfz/lpt_work_harder_on_yourself
   * Changepoint
   * Flights
   * (one more?)
+* learn one new song/month on guitar
 
 ### Spiritual
 * read NT and DC
