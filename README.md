@@ -8,28 +8,27 @@ https://www.reddit.com/r/LifeProTips/comments/3q9qfz/lpt_work_harder_on_yourself
 2. Family (if I don't take care of myself, I'll have less to offer my family)
 3. Job
 
-# [Zig's Wheel of Life](http://chrislocurto.com/zig-ziglars-wheel-of-life/)
-<img src=http://chrislocurto.com/wp-content/uploads/2013/04/wheel1-e1305068321816.jpg>
-
 ### Physical
-* exercise...
-* through 2016 DRINK ONLY WATER
+* complete 30-day fix and P90x3 (fall)
+* 1000 miles
+* heartland 39.3 (Spring)
+* marathon (qualify for Boston, run before September)
+* 100+ pushups/day
+* DRINK ONLY WATER
 
 ### Mental
-* books...
-* 
+* study 2 hours/day, M-TH (exams 5/6)
+* finish Coursera certificate
 
 ### Spiritual
-* 
-* 
+* read NT and DC
 
 ### Social
-*
-* 
+* brodate once/quarter
 
 ### Financial
-*
-* 
+* pack and bring lunch 4x week
+* 600/month student loans?
 
 ### Family
 * family day, once/month
@@ -37,13 +36,18 @@ https://www.reddit.com/r/LifeProTips/comments/3q9qfz/lpt_work_harder_on_yourself
 * newsletter to extended family, once/month
 
 ### Career
-* Python
-* Javascript
-* D3
-* HTML5
-* CSS
+* change
+* New languages:
+  * Python
+  * Javascript
+  * D3
+  * HTML5
+  * CSS
 
 http://www.learnpython.org/
 http://learnpythonthehardway.org/book/
 https://external.codecademy.com/courses/introduction-to-python-6WeG3/0/2?curriculum_id=4f89dab3d788890003000096
 http://www.w3schools.com/
+
+# [Zig's Wheel of Life](http://chrislocurto.com/zig-ziglars-wheel-of-life/)
+<img src=http://chrislocurto.com/wp-content/uploads/2013/04/wheel1-e1305068321816.jpg>
