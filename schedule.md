@@ -1,9 +1,9 @@
 
 | DOW | Event |
 |-----|-------|
-| Sun | Brooklyn Nine-Nine |
-| Mon | Supergirl |
-| Mon | Blindspot |
-| Tue | The Flash | 
-| Tue | Agents of SHIELD / Agent Carter | 
+| Mon | Supergirl / Blindspot |
+| Tue | The Flash / Agent Carter / Agents of SHIELD / Brooklyn 99 | 
+| Wed | |
 | Thu | Heroes Reborn |
+| Fri | Date Night |
+| Sat | ... |
