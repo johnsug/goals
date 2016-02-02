@@ -1,13 +1,12 @@
 
 | Event | Date |
 |-------|------|
-| Supergirl | Monday | 
+| SG | Monday | 
 | BL | Monday* | 
-| Flash | Tuesday | 
-| Agent Carter | Tuesday* | 
-| Agents of Shield | Tuesday* | 
-| Brooklyn 99 | Tuesday* | 
+| F | Tuesday | 
+| AC / AOS | Tuesday* | 
+| B99 | Tuesday* | 
 | MF | Wednesday | 
-| Legends of Tomorrow | Thursday | 
+| LOT | Thursday | 
 
 
