@@ -1,5 +1,4 @@
-
-| Event | Date |
+| Event | When |
 |-------|------|
 | SG | Monday | 
 | BL | Monday* | 
@@ -8,5 +7,3 @@
 | B99 | Tuesday** | 
 | MF | Wednesday* | 
 | LOT | Thursday* | 
-
-
