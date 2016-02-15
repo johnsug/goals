@@ -13,7 +13,7 @@ https://www.reddit.com/r/LifeProTips/comments/3q9qfz/lpt_work_harder_on_yourself
 # 2016 Goals
 
 ### Physical
-* complete 30-day fix and P90x3 (fall)
+* complete P90x3
 * 1000 miles
 * heartland 39.3 (spring)
 * marathon (qualify for Boston, run before September)
@@ -21,7 +21,6 @@ https://www.reddit.com/r/LifeProTips/comments/3q9qfz/lpt_work_harder_on_yourself
 * DRINK ONLY WATER
 
 ### Mental
-* study 2 hours/day, M-TH (exams 5/6)
 * finish Coursera certificate
 * set up personal RStudio/Shiny server
 * finish portfolio
@@ -32,7 +31,7 @@ https://www.reddit.com/r/LifeProTips/comments/3q9qfz/lpt_work_harder_on_yourself
 * learn one new song/month on guitar
 
 ### Spiritual
-* read NT and DC
+* read New Testament and Lecturs on Faith
 
 ### Social
 * brodate once/quarter
