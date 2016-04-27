@@ -1,12 +1,12 @@
 | Event | When      |
 |-------|-----------|
-| SG    | Monday    | 
+| ~~SG~~ | ~~Monday~~ | 
+| ~~CXG~~ | ~~Monday~~ | 
 | BS    | Monday    | 
-| CXG   | Monday    | 
 | F     | Tuesday   | 
 | C     | Tuesday   | 
 | AOS   | Tuesday*  | 
-| B99   | Tuesday*  | 
+| ~~B99~~ | ~~Tuesday~~ | 
 | MF    | Wednesday | 
 | LOT   | Thursday  | 
 
