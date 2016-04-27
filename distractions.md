@@ -6,7 +6,7 @@
 | F     | Tuesday   | 
 | C     | Tuesday   | 
 | AOS   | Tuesday*  | 
-| ~~B99~~ | ~~Tuesday~~ | 
+| ~~B99~~ | ~~Tuesday*~~ | 
 | MF    | Wednesday | 
 | LOT   | Thursday  | 
 
