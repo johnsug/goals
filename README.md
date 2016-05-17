@@ -15,7 +15,7 @@ https://www.reddit.com/r/LifeProTips/comments/3q9qfz/lpt_work_harder_on_yourself
 ### Physical
 * complete P90x3
 * 1000 miles
-* heartland 39.3 (spring)
+* run ~Heartland 39.3 (spring)~
 * marathon (qualify for Boston, run before September)
 * 100+ pushups/day
 * DRINK ONLY WATER
