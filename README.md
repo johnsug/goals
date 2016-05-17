@@ -13,10 +13,10 @@ https://www.reddit.com/r/LifeProTips/comments/3q9qfz/lpt_work_harder_on_yourself
 # 2016 Goals
 
 ### Physical
-* complete P90x3
-* 1000 miles
-* run ~~Heartland 39.3 (spring)~~
-* marathon (qualify for Boston, run before September)
+* complete P90x3 (7/13 weeks)
+* 1000 miles 
+* ~~run Heartland 39.3 (spring)~~
+* marathon (qualify for Boston?)
 * 100+ pushups/day
 * DRINK ONLY WATER
 
@@ -31,14 +31,14 @@ https://www.reddit.com/r/LifeProTips/comments/3q9qfz/lpt_work_harder_on_yourself
 * learn one new song/month on guitar
 
 ### Spiritual
-* read New Testament and Lecturs on Faith
+* read New Testament and Lectures on Faith
 
 ### Social
 * brodate once/quarter
 
 ### Financial
 * pack and bring lunch 4x week
-* 7200 in student loans
+* ~~7200 in~~ pay off student loans
 
 ### Family
 * family day, once/month
