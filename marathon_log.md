@@ -19,3 +19,37 @@
 | 16 | 5   | 4 p | 5   |     | 12  |
 | 17 | 4   | 3   | 4   |     | 8   |
 | 18 | 3   | 2   | Rest|     | 26.2 |
+
+-----------
+
+Pacing grid:
+
+| Distance | 7:00 | 7:30 | 8:00 | 8:30 | 9:00 |
+|------|------|------|------|------|------|
+| 5    | 0:35 | 0:38 | 0:40 | 0:42 | 0:45 |
+| 6    | 0:42 | 0:45 | 0:48 | 0:51 | 0:54 |
+| 7    | 0:49 | 0:52 | 0:56 | 0:60 | 1:03 |
+| 8    | 0:56 | 1:00 | 1:04 | 1:08 | 1:12 |
+| 13.1 | 1:32 | 1:38 | 1:45 | 1:51 | 1:58 |
+| 26.2 | 3:03 | 3:16 | 3:30 | 3:43 | 3:56 |
+
+```{r}
+## setup
+dists <- c(5,6,7,8,13.1,26.2)
+times <- seq(7, 9, by=0.5)
+A <- as.matrix(dists)
+B <- t(as.matrix(times))
+
+## calc paces
+mins <- A %*% B
+hrs <- mins / 60
+p1 <- floor(mins/60)
+p2 <- as.character(round((mins / 60 - floor(mins/60))*60,0))
+p2[nchar(p2)==1] <- paste0("0", p2[nchar(p2)==1])
+
+## calc pace grid
+pace <- as.data.frame(matrix(paste0(p1, ":", p2), nrow=6))
+names(pace) <- paste0(floor(times), ":", (times-floor(times)) * 6, "0")
+rownames(pace) <- dist 
+pace
+```
