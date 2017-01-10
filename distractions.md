@@ -5,5 +5,20 @@
 | TL  | M  | -   | -   | 11  |     |     |     |     |     |     |     |     |     |     |
 | F   | T  | -   | -   | -   | 10  | 11  | 12  | 13  | 14  |     |     |     |     |     |
 | LOT | T  | -   | -   | -   | 9   | 10  | 11  | 12  | 13  |     |     |     |     |     |
-| BS  | W  | 10  | 11  | 12  | 13  |     |     |     |     |     |     |     |     |     |
+| BS  | W  | x   | 11  | 12  | 13  |     |     |     |     |     |     |     |     |     |
 | CXG | F  | 8/9 | 10  | 11  |     |     |     |     |     |     |     |     |     |     |
+
+| M | CM | Date |
+|---|----|------|
+| Lego Batman | | 2/10/2017 |
+| Beauty and the Beast | | 3/17/2017 |
+| Power Rangers | | 3/24/2017 |
+| Fate of the Furious | | 4/14/2017 |
+| Guardians of the Galaxy | x | 5/5/2017 |
+| Wonder Woman | x | 6/2/2017 |
+| Despicable Me 3 | | 6/30/2017 |
+| Spider Man Homecoming | x | 7/7/2017 |
+| Thor: Ragnarok | x | 11/3/2017 |
+| Justice League | x | 11/17/2017 |
+| Star Wars 8 | x | 12/15/2017 |
+| Jumanji | | 12/22/2017 |
