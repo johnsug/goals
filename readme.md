@@ -15,6 +15,3 @@ https://www.reddit.com/r/LifeProTips/comments/3q9qfz/lpt_work_harder_on_yourself
 | 1:47:30 (8:12) | 3:45:00 (8:35) |
 | 1:55:00 (8:47) | 4:00:00 (9:10) |
 | 2:10:00 (9:55) | 4:30:00 (10:18) |
-
-
-http://www.baa.org/races/boston-marathon/participant-information/qualifying.aspx
