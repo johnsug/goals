@@ -6,7 +6,6 @@
 
 | M | CM | Date |
 |---|----|------|
-| Guardians of the Galaxy | x | 5/5/2017 |
 | Wonder Woman | x | 6/2/2017 |
 | Despicable Me 3 | | 6/30/2017 |
 | Spider Man Homecoming | x | 7/7/2017 |
