@@ -1,16 +1,16 @@
 
 | Studio | M | CBM | Date |
 |--------|---|-----|------|
-| WB  | Ninjago        |   |  9/22/2017 |
-| MAR | Thor: Ragnarok | x | 11/03/2017 |
-| DC  | Justice League | x | 11/17/2017 |
-| DIS | Star Wars 8    |   | 12/15/2017 |
 | MAR | Black Panther  | x |  2/16/2018 |
 | MAR | Infinity War   | x |  5/04/2018 |
-| DIS | Han Solo       |   |  5/29/2018 |
+| DIS | Han Solo       |   |  5/25/2018 |
+| DIS | Incredibles 2  | / |  6/15/2018 |
 | MAR | Ant-Man / Wasp | x |  7/06/2018 |
 | FOX | Venom?         | x | 10/05/2018 |
-| FOX | Dark Phoenix   | x | 11/22/2018 |
+| FOX | Dark Phoenix   | x | 11/02/2018 |
+| WB  | Fant. Beasts 2 |   | 11/16/2018 |
+| MAR | Spiderverse    | x | 12/14/2018 |
+| ?   | Mortal Engines |   | 12/14/2018 |
 | DC  | Aquaman        | x | 12/21/2018 |
 | MAR | Captain Marvel | x |  3/08/2019 |
 | DC  | Shazam         | x |  4/05/2019 |
