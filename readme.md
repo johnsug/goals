@@ -8,6 +8,22 @@ https://www.reddit.com/r/LifeProTips/comments/3q9qfz/lpt_work_harder_on_yourself
 2. Family (if I don't take care of myself, I'll have less to offer my family)
 3. Job
 
+# Next 10
+
+1. [B]KC Marathon (Oct)
+2. [B]Longview Half (Nov)
+3. Jacomotose Trail (Dec)
+4. [P]Liberty Hospital (Mar)
+5. [B]Rock the Parkway (Apr)
+6. [B]Free State Trail (Apr)
+7. [B]Hospital Hill (Jun)
+8. [B]Revel Mt. Hood (Jun)
+9. Peachtree Road Race? (Jul)
+10. [P]KC Marathon (Oct)
+
+B = Beef
+P = Pace
+
 | Target | [VDOT](https://runsmartproject.com/calculator/) | 2H+10 |
 |--------|------|-------|
 | 3:10:00 / 07:15 / 8.3 | 1:31:16 / 06:58 / 8.6 | 1:30:00 / 06:52 / 8.7 |
@@ -15,4 +31,3 @@ https://www.reddit.com/r/LifeProTips/comments/3q9qfz/lpt_work_harder_on_yourself
 | 3:45:00 / 08:35 / 7.0 | 1:48:40 / 08:17 / 7.2 | 1:47:30 / 08:12 / 7.3 |
 | 4:00:00 / 09:10 / 6.6 | 1:56:11 / 08:52 / 6.8 | 1:55:00 / 08:47 / 6.8 |
 | 4:30:00 / 10:18 / 5.8 | 2:11:07 / 10:00 / 6.0 | 2:10:00 / 09:55 / 6.0 |
-
