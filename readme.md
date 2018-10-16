@@ -10,16 +10,16 @@ https://www.reddit.com/r/LifeProTips/comments/3q9qfz/lpt_work_harder_on_yourself
 
 # Next 10
 
-1. [B]KC Marathon (Oct)
-2. [B]Longview Half (Nov)
+1. [B] KC Marathon (Oct)
+2. [B] Longview Half (Nov)
 3. Jacomotose Trail (Dec)
-4. [P]Liberty Hospital (Mar)
-5. [B]Rock the Parkway (Apr)
-6. [B]Free State Trail (Apr)
-7. [B]Hospital Hill (Jun)
-8. [B]Revel Mt. Hood (Jun)
+4. [P] Liberty Hospital (Mar)
+5. [B] Rock the Parkway (Apr)
+6. [B] Free State Trail (Apr)
+7. [B] Hospital Hill (Jun)
+8. [B] Oregon Marathon (Jun)
 9. Peachtree Road Race? (Jul)
-10. [P]KC Marathon (Oct)
+10. [P] KC Marathon (Oct)
 
-B = Beef
-P = Pace
+[B] = Beef
+[P] = Pace
