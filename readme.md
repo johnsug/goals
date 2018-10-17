@@ -13,7 +13,7 @@ https://www.reddit.com/r/LifeProTips/comments/3q9qfz/lpt_work_harder_on_yourself
 1. [B] 10/20/18 KC Marathon
 2. [B] 11/10/18 Longview Half
 3. 12/01/18 Jacomotose Trail
-4. [P] 3/2/19 Liberty Hospital Half
+4. [P] 3/02/19 Liberty Hospital Half
 5. [P] 4/13/19 Rock the Parkway
 6. [B] 4/20/19 Free State Trail Run
 7. [B] 7/01/19 Hospital Hill
