@@ -16,7 +16,7 @@ https://www.reddit.com/r/LifeProTips/comments/3q9qfz/lpt_work_harder_on_yourself
 4. [P] 3/02/19 Liberty Hospital Half
 5. [P] 4/13/19 Rock the Parkway
 6. [B] 4/20/19 Free State Trail Run
-7. [B] 7/01/19 Hospital Hill
+7. [B] 6/01/19 Hospital Hill
 8. 7/04/19 Peachtree Road Race
 9. [B] 7/20/19 Oregon Marathon
 10. [P] 10/19/19 KC Marathon
