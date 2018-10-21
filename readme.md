@@ -10,15 +10,15 @@ https://www.reddit.com/r/LifeProTips/comments/3q9qfz/lpt_work_harder_on_yourself
 
 # Next 10
 
-2. [B] 11/10/18 Longview Half
-3. 12/01/18 Jacomotose Trail
-4. [P] 3/02/19 Liberty Hospital Half
-5. [P] 4/13/19 Rock the Parkway
-6. [B] 4/20/19 Free State Trail Run
-7. [B] 6/01/19 Hospital Hill
-8. 7/04/19 Peachtree Road Race
-9. [B] 7/20/19 Oregon Marathon
-10. [P] 10/19/19 KC Marathon
+1. [B] 11/10/18 Longview Half
+2. 12/01/18 Jacomotose Trail
+3. [P] 3/02/19 Liberty Hospital Half
+4. [P] 4/13/19 Rock the Parkway
+5. [B] 4/20/19 Free State Trail Run
+6. [B] 6/01/19 Hospital Hill
+7. 7/04/19 Peachtree Road Race
+8. [B] 7/20/19 Oregon Marathon
+9. [P] 10/19/19 KC Marathon
 
 [B] = Beef
 [P] = Pace
