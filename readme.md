@@ -10,7 +10,6 @@ https://www.reddit.com/r/LifeProTips/comments/3q9qfz/lpt_work_harder_on_yourself
 
 # Next 10
 
-1. [B] 10/20/18 KC Marathon
 2. [B] 11/10/18 Longview Half
 3. 12/01/18 Jacomotose Trail
 4. [P] 3/02/19 Liberty Hospital Half
