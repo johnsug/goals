@@ -10,14 +10,6 @@ https://www.reddit.com/r/LifeProTips/comments/3q9qfz/lpt_work_harder_on_yourself
 
 # Next 10
 
-1. [P] 3/02/19 Liberty Hospital Half
-2. [P] 4/13/19 Rock the Parkway
-3. [B] 4/20/19 Free State Trail Run
-4. [P] 5/14/19 Running with the Cows
-5. [B] **6/01/19 Hospital Hill**
-6. 7/04/19 Peachtree Road Race
-7. [B] **7/20/19 Oregon Marathon**
-8. [P] 10/19/19 KC Marathon
-
-[B] = Beef
-[P] = Pace
+1. 4/04/2020 Rock the Parkway 
+2. 4/18/2020 Free State Trail Marathon 
+3. 6/06/2020 Revel Rockies
