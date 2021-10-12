@@ -10,6 +10,6 @@ https://www.reddit.com/r/LifeProTips/comments/3q9qfz/lpt_work_harder_on_yourself
 
 # Next 10
 
-1. 4/04/2020 Rock the Parkway 
-2. 4/18/2020 Free State Trail Marathon 
-3. 6/06/2020 Revel Rockies
+1. 10/22/2021 Cactus Rose
+2. 01/08/2022 Bandera 100k
+3. 
